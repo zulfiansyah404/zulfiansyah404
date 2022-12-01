@@ -10,7 +10,8 @@
 
 
 [![SPARTA Milestone 2](https://github-readme-stats.vercel.app/api/pin/?username=zulfiansyah404&theme=vision-friendly-dark&repo=Milestone02_K06)](https://github.com/zulfiansyah404/Milestone02_K06)
-[![Daspro Tubes](https://github-readme-stats.vercel.app/api/pin/?username=zulfiansyah404&theme=vision-friendly-dark&repo=tugas-besar-kelompok-2-k12)](https://github.com/zulfiansyah404/tugas-besar-kelompok-2-k12)
+
+
 
 [![Tubes TBFO](https://github-readme-stats.vercel.app/api/pin/?username=zulfiansyah404&theme=vision-friendly-dark&repo=TBFO-SANTUY)](https://github.com/zulfiansyah404/TBFO-SANTUY)
 
