@@ -12,7 +12,7 @@
 [![SPARTA Milestone 2](https://github-readme-stats.vercel.app/api/pin/?username=zulfiansyah404&theme=vision-friendly-dark&repo=Milestone02_K06)](https://github.com/zulfiansyah404/Milestone02_K06)
 
 ---
-  <h3>Tugas Semester 3</h3>
+  <h3>Tugas Kuliah</h3>
   
 [![Daspro Tubes](https://github-readme-stats.vercel.app/api/pin/?username=zulfiansyah404&theme=vision-friendly-dark&repo=tugas-besar-kelompok-2-k12)](https://github.com/zulfiansyah404/tugas-besar-kelompok-2-k12)
 
@@ -20,10 +20,6 @@
 
 [![Tubes Algeo2](https://github-readme-stats.vercel.app/api/pin/?username=zulfiansyah404&theme=vision-friendly-dark&repo=Algeo02-21011)](https://github.com/zulfiansyah404/Algeo02-21011)
 
-
----
-
-  <h3>Tugas Semester 4</h3>
-[![SPARTA Milestone 2](https://github-readme-stats.vercel.app/api/pin/?username=zulfiansyah404&theme=vision-friendly-dark&repo=Milestone02_K06)](https://github.com/zulfiansyah404/Milestone02_K06)
+[![Tucil1_13521028](https://github-readme-stats.vercel.app/api/pin/?username=zulfiansyah404&theme=vision-friendly-dark&repo=Tucil1_13521028)](https://github.com/zulfiansyah404/Tucil1_13521028)
   
 ---
