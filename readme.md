@@ -24,6 +24,6 @@
 ---
 
   <h3>Tugas Semester 4</h3>
-[![Tucil1_13521028](https://github-readme-stats.vercel.app/api/pin/?username=zulfiansyah404&theme=vision-friendly-dark&repo=Tucil1_13521028)](https://github.com/zulfiansyah404/Tucil1_13521028)
+[![SPARTA Milestone 2](https://github-readme-stats.vercel.app/api/pin/?username=zulfiansyah404&theme=vision-friendly-dark&repo=Milestone02_K06)](https://github.com/zulfiansyah404/Milestone02_K06)
   
 ---
