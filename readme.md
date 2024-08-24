@@ -4,7 +4,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=zulfiansyah404&hide=issues&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&custom_title=Github+Stats" alt="Github Stats" height=165/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfiansyah404&langs_count=5&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
   </a>
-
+[![Leetcode Stats](https://leetcard.jacoblin.cool/zoel_fiansyah?theme=dark&font=Padauk&extension=heatmap)](https://leetcard.jacoblin.cool/zoel_fiansyah?theme=dark&font=Padauk&extension=heatmap)
 ---
   <h3>Projects</h3>
 
